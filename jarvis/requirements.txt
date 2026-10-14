@@ -1,0 +1,6 @@
+SpeechRecognition
+pywhatkit
+pyttsx3
+python-dotenv
+google-genai
+PyAudio
